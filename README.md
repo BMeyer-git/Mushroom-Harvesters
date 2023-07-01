@@ -1,1 +1,2 @@
-# Mushroom-Harvesters
+# Mushroom Harvesters
+A small project, created at the end of my first javascript class. It's a interactive incremental game featuring a single piece of ascii art and somewhat out-of-hand progression. It is most useful to look back upon should I ever need a refresher on the contents of the course. I made sure to include as many techniques or features from the course as I could into one bite-sized project, and it also includes some extra things I learned to complete my own self-defined project description.
